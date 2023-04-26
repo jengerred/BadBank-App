@@ -1,15 +1,21 @@
 
 # How to install 
-## 1. Fork the repository into a directory on your computer, or copy all of the files to a directory on your computer.
-## 2. Open the directory in your terminal. 
-## 3. Type ### npx create-react-app badbank ## into the terminal.
-## 4. Type cd badbank into your terminal
+### 1. Fork the repository into a directory on your computer, or copy all of the files to a directory on your computer.
+### 2. Open the directory in your terminal. 
+### 3. Type:
+## npx create-react-app badbank 
+### into the terminal.
+### 4. Type:
+## cd badbank 
+###into your terminal
 ## 5. Install the dependencies by typing into your terminal: 
 ### npm install bootstrap
 ### npm install react-bootstrap
 ### npm install react-router-dom
 ### npm install react-hook-form
-## 6. Type npm start into your terminal and the app should be visible at http://localhost:3000/
+### 6. Type:
+## npm start
+### into your terminal and the app should be visible at http://localhost:3000/
 #
 #
 #
