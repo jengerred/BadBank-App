@@ -7,10 +7,11 @@
 ### 4. In your terminal Type:
 #### cd badbank 
 ### 5. Install the dependencies by typing into your terminal: 
-### npm install bootstrap
-### npm install react-bootstrap
-### npm install react-router-dom
-### npm install react-hook-form
+#### npm install bootstrap
+#### npm install react-bootstrap
+#### npm install react-router-dom
+#### npm install babel
+#### npm install react-hook-form
 ### 6. In your terminal Type:
 #### npm start
 ### The app should now be visible at http://localhost:3000/
