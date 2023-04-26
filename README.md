@@ -7,7 +7,7 @@
 ### into the terminal.
 ### 4. Type:
 ## cd badbank 
-###into your terminal
+### into your terminal
 ## 5. Install the dependencies by typing into your terminal: 
 ### npm install bootstrap
 ### npm install react-bootstrap
