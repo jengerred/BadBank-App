@@ -4,20 +4,20 @@ This project was an assignment from MIT XPro course. We were instructed to creat
 ### Future Imporvements:
 I would like to add a backend to this project to make it full stack and be able to save users data in a secure way. I would also like to add more styling.
 ## How to install:
-### 1. Fork the repository into a directory on your computer, or copy all of the files to a directory on your computer.
-### 2. Open the directory in your terminal. 
-### 3. In your terminal Type:
-#### npx create-react-app badbank 
-### 4. In your terminal Type:
-#### cd badbank 
-### 5. Install the dependencies by typing into your terminal: 
-#### npm install bootstrap
-#### npm install react-bootstrap
-#### npm install react-router-dom
-#### npm install babel
-#### npm install react-hook-form
-### 6. In your terminal Type:
-#### npm start
+#### 1. Fork the repository into a directory on your computer, or copy all of the files to a directory on your computer.
+#### 2. Open the directory in your terminal. 
+#### 3. In your terminal Type:
+npx create-react-app badbank 
+#### 4. In your terminal Type:
+ cd badbank 
+#### 5. Install the dependencies by typing into your terminal: 
+ ##### npm install bootstrap
+ ##### npm install react-bootstrap
+ ##### npm install react-router-dom
+##### npm install babel
+##### npm install react-hook-form
+#### 6. In your terminal Type:
+##### npm start
 ### The app should now be visible at http://localhost:3000/
 #
 #
