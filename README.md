@@ -17,7 +17,7 @@ npx create-react-app badbank
 ##### npm install babel
 ##### npm install react-hook-form
 #### 6. In your terminal Type:
-##### npm start
+npm start
 ### The app should now be visible at http://localhost:3000/
 #
 #
