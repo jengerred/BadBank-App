@@ -3,7 +3,7 @@
 This project was an assignment from MIT XPro course. We were instructed to create an app that will create a user account, have the user login, and have a functional deposit and withdrawal page as well as a page to display all the account data. 
 ### Future Imporvements:
 I would like to add a backend to this project to make it full stack and be able to save users data in a secure way. I would also like to add more styling.
-# How to install 
+## How to install:
 ### 1. Fork the repository into a directory on your computer, or copy all of the files to a directory on your computer.
 ### 2. Open the directory in your terminal. 
 ### 3. In your terminal Type:
