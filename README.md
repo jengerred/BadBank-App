@@ -10,11 +10,9 @@
 ### npm install react-router-dom
 ### npm install react-hook-form
 ## 6. Type npm start into your terminal and the app should be visible at http://localhost:3000/
-
-
-
-
-
+#
+#
+#
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
